@@ -1,2 +1,6 @@
-# balancer
-Tools for searching which balancers cover the gene and MMP mutation
+# balancer search tools
+Tools for searching which balancers cover the gene and MMP mutation.
+## Balancer Search
+Comming up soon.. This Google Colab notebook identifies tmC and tmIn balancers for a given gene.
+## MMP Balancer Search
+This Google Colab notebook identifies tmC and tmIn balancers for a given gk mutation. It also details which other mutations from the original MMP strain fall within or outside the balanced region.
